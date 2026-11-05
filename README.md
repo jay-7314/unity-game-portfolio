@@ -5,6 +5,16 @@
 
 ![Unity](https://img.shields.io/badge/Unity-6%20%7C%202022.3-black?logo=unity) ![C#](https://img.shields.io/badge/C%23-.NET-512BD4?logo=csharp) ![2D](https://img.shields.io/badge/2D-URP-green) ![Android](https://img.shields.io/badge/Android-Google%20Play-3DDC84?logo=android)
 
+<p align="center">
+  <img src="docs/survival-hunt-demo.gif" width="480" alt="Survival Hunt 플레이 영상">
+</p>
+
+## 👋 한눈에 보기
+
+- 📱 **기획부터 출시 준비까지 혼자 한 모바일 게임 1개** (Survival Hunt, Google Play 비공개 테스트 중)
+- 🎮 **방치형, 액션 플랫포머, 육성 시뮬레이션 프로토타입 3개**
+- 🧩 모든 프로젝트의 **코드는 직접 작성**했고, 구조와 겪은 문제를 각 저장소 README에 정리했습니다.
+
 ---
 
 ## ⭐ 대표작: Survival Hunt
