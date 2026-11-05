@@ -20,6 +20,10 @@
 | 상태 | **Google Play 비공개 테스트 진행 중** (출시 준비) |
 | 저장소 | [survival-hunt](https://github.com/jay-7314/survival-hunt) (플레이 영상과 스크린샷은 README에 있습니다) |
 
+| 전투 | 카드 선택 | 클리어 / 정산 |
+|:---:|:---:|:---:|
+| <img src="docs/survival-hunt-battle.png" width="300"> | <img src="docs/survival-hunt-cards.png" width="300"> | <img src="docs/survival-hunt-clear.png" width="300"> |
+
 **핵심 구현**
 
 - **데이터 주도 설계**: 캐릭터와 카드를 ScriptableObject로 정의해, 새 카드나 캐릭터를 코드 수정 없이 추가
