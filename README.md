@@ -1,7 +1,7 @@
 # 🎮 Unity 게임 포트폴리오
 
 > 혼자 기획하고 코드까지 직접 구현한 Unity 게임 프로젝트 모음입니다.
-> 코드는 전부 직접 작성했고, 아트·UI는 외부 에셋을 사용했습니다 (출처는 각 저장소 README에 표기).
+> 코드는 전부 직접 작성했고, 아트·UI는 외부 에셋을 사용했습니다.
 
 ![Unity](https://img.shields.io/badge/Unity-6%20%7C%202022.3-black?logo=unity) ![C#](https://img.shields.io/badge/C%23-.NET-512BD4?logo=csharp) ![2D](https://img.shields.io/badge/2D-URP-green) ![Android](https://img.shields.io/badge/Android-Google%20Play-3DDC84?logo=android)
 
@@ -28,7 +28,6 @@
 | 플랫폼 | Android (가로 화면) |
 | 개발 | 1인 개발: 기획, 프로그래밍, UI, 캐릭터 애니메이션, 스토어 출시 준비 |
 | 상태 | **Google Play 비공개 테스트 진행 중** (출시 준비) |
-| 저장소 | [survival-hunt](https://github.com/jay-7314/survival-hunt) (플레이 영상과 스크린샷은 README에 있습니다) |
 
 | 전투 | 카드 선택 | 클리어 / 정산 |
 |:---:|:---:|:---:|
@@ -49,9 +48,9 @@
 
 | 게임 | 장르 | 핵심 구현 | 저장소 |
 |---|---|---|---|
-| **Dream 꿈속의조작법** | 2D 액션 플랫포머 (리메이크 준비 중) | 플레이어 조작(코요테 타임·대시), 전투(히트박스·넉백), 대화 분기, 적 AI, 구역별 카메라, 저장/불러오기. 적 AI와 물리 충돌 문제를 정리해 처음부터 다시 만들 계획 | [dream](https://github.com/jay-7314/dream) |
-| **Monster Idle** | 모바일 방치형 (Android 빌드 완료) | 터치 입력과 피드백, 업그레이드 데이터(ScriptableObject), 오브젝트 풀링, JSON 저장, 오프라인 보상, 효과음, 실기기 테스트 | [unity-idle-game](https://github.com/jay-7314/unity-idle-game) |
-| **PrincessMakerLike** | 육성 시뮬레이션 (프로토타입) | 활동 선택 → 능력치 변화, 조건 이벤트·엔딩, ScriptableObject 데이터 설계, 저장/불러오기 | [PrincessMaker](https://github.com/jay-7314/PrincessMaker) |
+| **Dream 꿈속의조작법** | 2D 액션 플랫포머 (리메이크 준비 중) | 플레이어 조작(코요테 타임·대시), 전투(히트박스·넉백), 대화 분기, 적 AI, 구역별 카메라, 저장/불러오기. 적 AI와 물리 충돌 
+| **Monster Idle** | 모바일 방치형 (Android 빌드 완료) | 터치 입력과 피드백, 업그레이드 데이터(ScriptableObject), 오브젝트 풀링, JSON 저장, 오프라인 보상, 효과음, 실기기 테스트 | 
+| **PrincessMakerLike** | 육성 시뮬레이션 (프로토타입) | 활동 선택 → 능력치 변화, 조건 이벤트·엔딩, ScriptableObject 데이터 설계, 저장/불러오기 | 
 
 ## 📝 개발 블로그
 
